@@ -10,5 +10,7 @@ The assignment2 is about designing and building a model, application, or analysi
  - index.html (the HTML page generated from tkinter.ipynb)
  - plot.txt (the raster style comma-separated text saved from the model)
  - plot_demo.gif (the gif shows the workflow of the model)
+## Online Website
+[The page generated from jupyter notebook.](https://hpwonder1.github.io/Geography-Programming-Courses-Assignment2/)
 ## LICENCE
 Apache License Version 2.0
